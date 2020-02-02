@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoveQQ:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="LoveQQ.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="LoveQQ" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsonobject/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsonobject/json-lib-2.1-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsonobject/ezmorph-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsonobject/commons-beanutils-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsonobject/commons-logging.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsonobject/commons-collections-3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
